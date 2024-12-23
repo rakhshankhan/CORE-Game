@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b60b962fd731cc64d942f41af2814508, type: 3}
+  m_Name: Language5
+  m_EditorClassIdentifier: 
+  languageDictionary:
+    m_keys:
+    - leaderboard
+    - exit
+    - start
+    - ammo-remaining
+    - reload-text
+    - reload-complete
+    - reloading-text
+    - supply-drop
+    - round-text
+    - round-wait
+    - game-success
+    - game-over
+    - enemies-remaining
+    - timer-countdown
+    - timer-reset
+    - enter-name
+    - save
+    - enter-text-placeholder
+    - back
+    - game-title
+    - resume
+    - restart
+    - exit-to-menu
+    m_values:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 

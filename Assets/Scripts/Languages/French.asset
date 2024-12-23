@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b60b962fd731cc64d942f41af2814508, type: 3}
+  m_Name: French
+  m_EditorClassIdentifier: 
+  languageDictionary:
+    m_keys:
+    - leaderboard
+    - exit
+    - start
+    - ammo-remaining
+    - reload-text
+    - reload-complete
+    - reloading-text
+    - supply-drop
+    - round-text
+    - round-wait
+    - game-success
+    - game-over
+    - enemies-remaining
+    - timer-countdown
+    - timer-reset
+    - enter-name
+    - save
+    - enter-text-placeholder
+    - back
+    - game-title
+    - resume
+    - restart
+    - exit-to-menu
+    m_values:
+    - Classement
+    - Quitter
+    - Commencer
+    - 'Munitions : {0}/{1}'
+    - Appuyez sur R pour recharger.
+    - "Rechargement termin\xE9 !"
+    - Rechargement...
+    - Approvisionnement en cours !
+    - 'Manche : {0}'
+    - En attente de la prochaine manche...
+    - "Le village a \xE9t\xE9 prot\xE9g\xE9 ! Redirection pour enregistrer le score."
+    - "Le c\u0153ur a \xE9t\xE9 d\xE9truit. R\xE9essayez..."
+    - 'Ennemis restants : {0}'
+    - 'Temps : {0}:{1}s'
+    - 'Temps : 0:00s'
+    - 'Entrez votre nom :'
+    - Enregistrer
+    - Entrez du texte...
+    - Retour
+    - "Le Noyau - Cr\xE9\xE9 par Rakhshan"
+    - Reprendre
+    - "Red\xE9marrer"
+    - Quitter vers le menu principal
